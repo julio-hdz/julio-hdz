@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Julio Hernandez</h1>
+<h1 align="center">Hi, I'm Julio Hernandez</h1>
 <h3 align="center">A Full Stack Web Developer from Buenos Aires, Argentina.</h3>
 
-- 🔭 I’m currently working on **Mobile App with Flutter**
+- 🔭 I’m currently working on **Final Project for Henry Bootcamp** and open to work remotely
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Flutter, Dart & Firebase**
 
-- 💬 Ask me about **react, redux, node, express, sequelize**
+- 💬 Ask me about **react, redux, node, express, movies**
 
-- 📫 How to reach me **jchj1793@gmail.com**
+- 📫 Contact me at **jchj1793@gmail.com**
 
 - ⚡ Fun fact **I almost got a physics degree and also I'm a personal trainer.**
 
