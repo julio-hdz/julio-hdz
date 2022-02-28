@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julio Hernandez</h1>
-<h3 align="center">A Full Stack Web Developer from Buenos Aires, Argentina.</h3>
+<h3 align="center">A Full Stack Web Developer from Buenos Aires, Argentina</h3>
 
 - 🔭 I’m currently working on **Final Project for Henry Bootcamp** and open to work remotely
 
