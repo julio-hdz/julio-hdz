@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Julio Hernandez</h1>
-<h3 align="center">A Full Stack Web Developer from Buenos Aires, Argentina</h3>
+![julio hernandez](https://user-images.githubusercontent.com/72900849/156192908-f2336a1b-f995-463d-b74f-88806851ea4b.png)
+<h3 align="center">Full Stack Web Developer although more back-end oriented. I can't resist a good challenge. I'm a former physics student that loves learning and solving problems, especially the intricate ones. Working hard to be part of amazing projects. </h3>
 
 - 🔭 I’m currently working on **Final Project for Henry Bootcamp** and open to work remotely
 
